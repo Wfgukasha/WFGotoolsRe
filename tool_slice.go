@@ -1,19 +1,8 @@
-package wfgotool
+package wfgslice
 
 import (
 	"errors"
 )
-
-type s1 struct {
-	g1 int
-}
-type i1 interface {
-	Up()
-}
-
-func (s s1) Up() {
-	s.g1++
-}
 
 func FindInts(slicei []int, target int) (tgt int, err error, count int) {
 	count = 0
