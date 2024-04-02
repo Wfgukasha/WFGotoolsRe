@@ -1,4 +1,4 @@
-module https://github.com/Wfgukasha/WFGotoolsRe
+module github.com/Wfgukasha/WFGotoolsRe
 
 go 1.22
 
