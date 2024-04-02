@@ -6,3 +6,4 @@
 `go get github.com/the-other-world/WFGotools`
 ### 上个包怎么了？
 不知道谁把我的库删完了，原来的停止更新
+哎
