@@ -1,4 +1,4 @@
-package wfgtime
+package wftime
 
 import "time"
 

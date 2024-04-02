@@ -1,3 +1,3 @@
-module github.com/the-other-world/WFGotools
+module https://github.com/Wfgukasha/WFGotoolsRe
 
 go 1.22
