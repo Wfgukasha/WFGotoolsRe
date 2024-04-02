@@ -1,4 +1,4 @@
-package wfgslice
+package wfslice
 
 import (
 	"errors"
