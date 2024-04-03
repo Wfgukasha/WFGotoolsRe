@@ -1,7 +1,3 @@
-module github.com/Wfgukasha/WFGotoolsRe
+module github.com/the-other-world/WFGotools
 
 go 1.22
-
-retract (
-   github.com/the-other-world/WFGotools@latest
-)

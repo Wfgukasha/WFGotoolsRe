@@ -4,6 +4,7 @@ import (
 	"errors"
 )
 
+// FindInts 查找切片里相同的int
 func FindInts(slicei []int, target int) (tgt int, err error, count int) {
 	count = 0
 	for _, num := range slicei {
